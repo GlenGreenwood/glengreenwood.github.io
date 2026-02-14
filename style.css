@@ -14,6 +14,6 @@ h7 {
     font-family: 'Megrim', cursive;
 }
 .cycle_step {
-    background-color: darkolivegreen;
+    padding: 0px 50px;
     color: darkolivegreen;
 }
