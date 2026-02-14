@@ -28,7 +28,7 @@ h7 {
 }
 
 .cycle_step {
-    padding: 20px, 20px, 20px, 20px;
+    padding: 20px 20px 20px 20px;
     border-radius: 10px;
     border-width: 2px;
     color: rgb(135, 178, 59);
@@ -85,5 +85,5 @@ div{
 #respiration {
     min-height: auto;
     height:auto;
-    background-color: rgb(226, 226, 226);
+    background-color: rgb(47, 47, 47);
 }
