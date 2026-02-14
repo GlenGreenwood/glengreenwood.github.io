@@ -5,6 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // Get the link element
     const cssLink = document.getElementById('dynamic-css');
 
-    // Set the href attribute with the random query string
-    cssLink.href = 'styles.css' + randomQueryString;
+    // Set the href attribute with the random query string (correct filename and guard)
+    if (cssLink) {
+        cssLink.href = 'style.css' + randomQueryString;
+    }
 });
