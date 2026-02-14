@@ -61,7 +61,7 @@ div{
     min-height: 100vh; /* Ensure it takes up the full height even with minimal content */
     display: box;
     color:whitesmoke;
-    font-size: medium !important;
+    font-size: xx-large !important;
     overflow-y: auto; /* Allow scrolling if content overflows */
 }
 
