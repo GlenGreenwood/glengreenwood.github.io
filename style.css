@@ -50,5 +50,5 @@ a{
 div{
     height: 100vh; /* Full viewport height */
     min-height: 100vh; /* Ensure it takes up the full height even with minimal content */
-    display: flex;
+    display: box;
 }
