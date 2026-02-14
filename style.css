@@ -29,6 +29,7 @@ h7 {
 
 .cycle_step {
     padding: 20px 20px 20px 20px;
+    border-style: solid;
     border-radius: 10px;
     border-width: 2px;
     color: rgb(135, 178, 59);
@@ -61,7 +62,6 @@ div{
     min-height: 100vh; /* Ensure it takes up the full height even with minimal content */
     display: box;
     color:whitesmoke;
-    font-size: xx-large !important;
     overflow-y: auto; /* Allow scrolling if content overflows */
 }
 
