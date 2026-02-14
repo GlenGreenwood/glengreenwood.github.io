@@ -68,3 +68,13 @@ div{
     min-height: 10px;
     background-color: rgb(136, 96, 9);
 }
+#photosynthesis {
+    min-height: auto;
+    height:auto;
+
+}
+#respiration {
+    min-height: auto;
+    height:auto;
+    background-color: brown;
+}
