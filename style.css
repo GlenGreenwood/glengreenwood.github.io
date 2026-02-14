@@ -4,22 +4,27 @@ body{
 
 h1 {
     font-family: 'Megrim', cursive;
+    color:darkgreen;
 }
 
 h3 {
     font-family: 'Megrim', cursive;
+    color:darkgreen;
 }
 
 h4 {
     font-family: 'Megrim', cursive;
+    color:darkgreen;
 }
 
 h7 {
     font-family: 'Megrim', cursive;
+    color:darkgreen;
 }
 
 .cyle_header {
     font-family: 'Megrim', cursive;
+    
 }
 
 .cycle_step {
@@ -33,27 +38,32 @@ h7 {
 ol{
     font-size: 18px;
     gap: 30px;
+    color:darkgreen;
 }
 li{
     font-family: 'Times New Roman', Times, serif;
+    color:darkgreen;
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
+    color:darkgreen;
 }
 
 a{
-    color:brown;
+    color:rgb(171, 107, 107);
 }
 
 div{
     height: 100vh; /* Full viewport height */
     min-height: 100vh; /* Ensure it takes up the full height even with minimal content */
     display: box;
+    color:darkgreen;
 }
 
 .footer_menu {
+    padding: 10px, 10px, 10px, 10px;
     height: 30px;
     min-height: 10px;
     background-color: rgb(136, 96, 9);
