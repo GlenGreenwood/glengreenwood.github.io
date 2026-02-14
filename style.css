@@ -17,8 +17,10 @@ h7 {
     font-family: 'Megrim', cursive;
 }
 .cycle_step {
-    padding: 0px 20px;
+    padding: 20px, 20px, 20px, 20px;
+    border-radius: 15px;
     color: rgb(135, 178, 59);
+    border-color: olivedrab;
 }
 ol{
     font-size: 18px;
