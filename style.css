@@ -61,6 +61,7 @@ div{
     display: box;
     color:whitesmoke;
     font-size: medium;
+    overflow-y: auto; /* Allow scrolling if content overflows */
 }
 
 .footer_menu {
