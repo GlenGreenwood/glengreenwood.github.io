@@ -4,22 +4,22 @@ body{
 
 h1 {
     font-family: 'Megrim', cursive;
-    color:darkgreen;
+    color:whitesmoke;
 }
 
 h3 {
     font-family: 'Megrim', cursive;
-    color:darkgreen;
+    color:whitesmoke;
 }
 
 h4 {
     font-family: 'Megrim', cursive;
-    color:darkgreen;
+    color:whitesmoke;
 }
 
 h7 {
     font-family: 'Megrim', cursive;
-    color:darkgreen;
+    color:whitesmoke;
 }
 
 .cyle_header {
@@ -38,17 +38,17 @@ h7 {
 ol{
     font-size: 18px;
     gap: 30px;
-    color:darkgreen;
+    color:whitesmoke;
 }
 li{
     font-family: 'Times New Roman', Times, serif;
-    color:darkgreen;
+    color:whitesmoke;
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-    color:darkgreen;
+    color:whitesmoke;
 }
 
 a{
@@ -59,7 +59,7 @@ div{
     height: 100vh; /* Full viewport height */
     min-height: 100vh; /* Ensure it takes up the full height even with minimal content */
     display: box;
-    color:darkgreen;
+    color:whitesmoke;
 }
 
 .footer_menu {
