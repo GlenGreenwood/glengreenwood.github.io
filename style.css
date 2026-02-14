@@ -63,6 +63,7 @@ div{
 }
 
 .footer_menu {
+    flex: 1;
     padding: 10px, 10px, 10px, 10px;
     height: 30px;
     min-height: 10px;
@@ -76,8 +77,8 @@ div{
 #photosynthesis {
     min-height: auto;
     height:auto;
-
 }
+
 #respiration {
     min-height: auto;
     height:auto;
