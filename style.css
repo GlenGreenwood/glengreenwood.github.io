@@ -21,9 +21,11 @@ h7 {
     border-radius: 15px;
     color: rgb(135, 178, 59);
     border-color: olivedrab;
+    gap: 20px;
 }
 ol{
     font-size: 18px;
+    gap: 10px;
 }
 li{
     font-family: 'Times New Roman', Times, serif;
