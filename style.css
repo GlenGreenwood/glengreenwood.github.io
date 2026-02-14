@@ -1,21 +1,27 @@
 body{
     background-color: rgb(31, 104, 0);
 }
+
 h1 {
     font-family: 'Megrim', cursive;
 }
+
 h3 {
     font-family: 'Megrim', cursive;
 }
+
 h4 {
     font-family: 'Megrim', cursive;
 }
+
 h7 {
     font-family: 'Megrim', cursive;
 }
+
 .cyle_header {
     font-family: 'Megrim', cursive;
 }
+
 .cycle_step {
     padding: 20px, 20px, 20px, 20px;
     border-radius: 15px;
@@ -23,9 +29,10 @@ h7 {
     border-color: olivedrab;
     gap: 20px;
 }
+
 ol{
     font-size: 18px;
-    gap: 10px;
+    gap: 30px;
 }
 li{
     font-family: 'Times New Roman', Times, serif;
@@ -34,4 +41,8 @@ li{
 p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
+}
+
+a{
+    color:brown;
 }
