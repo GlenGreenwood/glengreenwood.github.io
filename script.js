@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Generate a random query string
-    const randomQueryString = `?v=${Math.random().toString(36).substr(2, 9)}`;
+    const randomQueryString = `?v=${Math.random().toString(36).substring(2, 11)}`;
 
     // Get the link element
     const cssLink = document.getElementById('dynamic-css');
