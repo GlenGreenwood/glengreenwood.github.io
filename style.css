@@ -67,6 +67,11 @@ div{
     height: 30px;
     min-height: 10px;
     background-color: rgb(136, 96, 9);
+    padding: 10px 0;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
 }
 #photosynthesis {
     min-height: auto;
@@ -76,5 +81,5 @@ div{
 #respiration {
     min-height: auto;
     height:auto;
-    background-color: brown;
+    background-color: rgb(226, 226, 226);
 }
