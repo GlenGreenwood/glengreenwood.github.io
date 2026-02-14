@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(31, 104, 0);
+}
 h1 {
     font-family: 'Megrim', cursive;
 }
@@ -14,9 +17,17 @@ h7 {
     font-family: 'Megrim', cursive;
 }
 .cycle_step {
-    padding: 0px 500px;
+    padding: 0px 20px;
     color: rgb(135, 178, 59);
 }
 ol{
+    font-size: 18px;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
