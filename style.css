@@ -70,10 +70,8 @@ div{
     background-color: rgb(136, 96, 9);
     padding: 10px 0;
     width: 100%;
-    position: relative;
-    bottom: 0;
-    left: 0;
 }
+
 #photosynthesis {
     min-height: auto;
     height:auto;
