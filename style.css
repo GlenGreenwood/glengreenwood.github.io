@@ -52,3 +52,9 @@ div{
     min-height: 100vh; /* Ensure it takes up the full height even with minimal content */
     display: box;
 }
+
+.footer_menu {
+    height: 30px;
+    min-height: 10px;
+    background-color: rgb(136, 96, 9);
+}
